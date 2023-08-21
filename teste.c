@@ -1,11 +1,9 @@
 #include <studio.h>
 
-int main(){
+int main(void){
 	printf("Hello word");
 	return 0;
-}                                                                                                                      
-
-
+}                                                                                                                      		
 
 
 
